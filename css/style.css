@@ -66,10 +66,10 @@
      }
 
      .center ul li {
-      border-top: 1px #fff;
+      border-top: 1px solid #fff;
      }
      .center ul li:last-child {
-      border-bottom: 1px #fff;
+      border-bottom: 1px solid #fff;
      }
 
      main {
